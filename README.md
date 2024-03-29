@@ -4,7 +4,7 @@
 
 **Email**: csanjiti@gmail.com 
 
-**linkedin**: https://www.linkedin.com/in/sony08/
+**Linkedin**: https://www.linkedin.com/in/sony08/
 
 **Phone**: +1 773-677-8233 
 

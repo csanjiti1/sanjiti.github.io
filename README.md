@@ -1,12 +1,10 @@
 
 # Personal info
-name: Sanjiti Chakraborty    
+**Title**: Business Reporting Analyst |  BI Developer
 
-title: Business Reporting Analyst 
+**Email**: csanjiti@gmail.com 
 
-email: csanjiti@gmail.com 
-
-phone: 773-677-8233 
+**Phone**: +1 773-677-8233 
 
 
 
@@ -26,6 +24,6 @@ data for strategic advantage.
    - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL,Postgres
    - **ETL Tools**: Informatica Powercenter
    - **Web Analytics**: Google Analytics
-   -MS Project, Incident Analysis,Change Management, ServiceNow,JIRA,Confluence,LucidChart,MS Visio
+   -**Project Management**:MS Project, Incident Analysis,Change Management, ServiceNow,JIRA,Confluence,LucidChart,MS Visio
 
   

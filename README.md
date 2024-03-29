@@ -7,10 +7,8 @@ phone: 773-677-8233
 
 
 
-# About Section
+
 #  About Me
-
-
 Hello All! My name is sanjiti , currently working as Business reporting analyst for Tata Consultancy Services, Client Partner-CNA
 Results-oriented and detail-driven BI Developer with 5 years of experience creating and implementing end-to-end business intelligence solutions. Proven track record of optimizing 
 data integrity, and driving data-driven decision-making. Seeking to contribute technical expertise and analytical skills to a dynamic organization focused on harnessing the power of

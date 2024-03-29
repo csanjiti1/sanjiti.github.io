@@ -4,6 +4,8 @@
 
 **Email**: csanjiti@gmail.com 
 
+**linkedin**: https://www.linkedin.com/in/sony08/
+
 **Phone**: +1 773-677-8233 
 
 
@@ -20,6 +22,6 @@ Results-oriented and detail-driven BI Developer with 5 years of experience creat
    - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL,Postgres
    - **ETL Tools**: Informatica Powercenter
    - **Web Analytics**: Google Analytics 
-   -**Project Management**:MS Project, Incident Analysis,Change Management, ServiceNow,JIRA,Confluence,LucidChart,MS Visio
+   -**Project** **Management**:MS Project, Incident Analysis,Change Management, ServiceNow,JIRA,Confluence,LucidChart,MS Visio
 
   

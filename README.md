@@ -1,4 +1,4 @@
-Hello All!,
+
 # Personal info
 name: Sanjiti Chakraborty
 title: Business Reporting Analyst
@@ -8,9 +8,9 @@ phone: 773-677-8233
 
 
 # About Section
-# about_title: About Me
-about_profile_image: images/F4619C38-93DD-4E6E-8656-69A6E0270DFC.jpg
-About_Me: | # this will include new lines to allow paragraphs
+#  About Me
+
+
 Hello All! My name is sanjiti , currently working as Business reporting analyst for Tata Consultancy Services, Client Partner-CNA
 Results-oriented and detail-driven BI Developer with 5 years of experience creating and implementing end-to-end business intelligence solutions. Proven track record of optimizing 
 data integrity, and driving data-driven decision-making. Seeking to contribute technical expertise and analytical skills to a dynamic organization focused on harnessing the power of

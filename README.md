@@ -21,7 +21,8 @@ Results-oriented and detail-driven BI Developer with 5 years of experience creat
    - **Data Analytics**: Excel, SQL
    - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL,Postgres
    - **ETL Tools**: Informatica Powercenter
-   - **Web Analytics**: Google Analytics 
+   - **Web Analytics**: Google Analytics
+     
    -**Project** **Management**: MS Project, Incident Analysis,Change Management, ServiceNow,JIRA,Confluence,LucidChart,MS Visio
 
   

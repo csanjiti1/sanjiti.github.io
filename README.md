@@ -1,9 +1,9 @@
 
 # Personal info
-name: Sanjiti Chakraborty </br>
-title: Business Reporting Analyst</br>
-email: csanjiti@gmail.com</br>
-phone: 773-677-8233</br>
+name: Sanjiti Chakraborty   
+title: Business Reporting Analyst 
+email: csanjiti@gmail.com 
+phone: 773-677-8233 
 
 
 
@@ -16,7 +16,6 @@ data for strategic advantage.
 
 
 # SkillSet
-Skill: | # this will include new lines to allow paragraphs
    - **Data** **Management**: Database Design and Management, Data Analysis, , Visualization and Data Insights, Data Warehousing, Data Modeling
    - **Data Visualization**: Excel, Tableau, PowerBI, Crystal Report, SSRS,Looker
    - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP

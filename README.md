@@ -1,8 +1,11 @@
 
 # Personal info
-name: Sanjiti Chakraborty   
+name: Sanjiti Chakraborty    
+
 title: Business Reporting Analyst 
+
 email: csanjiti@gmail.com 
+
 phone: 773-677-8233 
 
 

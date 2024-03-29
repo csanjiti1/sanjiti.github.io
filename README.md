@@ -1,6 +1,6 @@
 
 # Personal info
-- ****: Business Reporting Analyst
+- **Business Reporting Analyst**
 - **Email**: csanjiti@gmail.com 
 - **Linkedin**: https://www.linkedin.com/in/sony08/
 - **Phone**: +1 773-677-8233 

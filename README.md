@@ -1,6 +1,6 @@
 
 # Personal info
-- **Title**: Business Reporting Analyst |  BI Developer
+- **Title**: Business Reporting Analyst|BI Developer
 - **Email**: csanjiti@gmail.com 
 - **Linkedin**: https://www.linkedin.com/in/sony08/
 - **Phone**: +1 773-677-8233 

@@ -1,10 +1,12 @@
 
 # Personal info
-- **Business Reporting Analyst**
+- **Data& Analytics Consultant**
 - **Email**: csanjiti@gmail.com 
 - **Linkedin**: https://www.linkedin.com/in/sony08/
 - **Phone**: +1 773-677-8233 
-
+- **Github**: https://github.com/csanjiti1
+- **Tableau**: https://public.tableau.com/app/profile/sony08/vizzes
+  
 
 #  About Me
 Hello All! My name is sanjiti , currently working as Business reporting analyst for Tata Consultancy Services, Client Partner-CNA.

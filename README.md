@@ -26,6 +26,9 @@ Illinois Institute of Technology , Chicago,IL
    - **Web Analytics**: Google Analytics
    - **Other Tools**: MS Project, Incident Analysis,Change Management, ServiceNow,JIRA,Confluence,LucidChart,MS Visio
 
+# Certifications
+Scrum Alliance Certified Scrum Master                               Jul 2024 - Jul 2026
+
      
 
   
